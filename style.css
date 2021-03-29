@@ -12,3 +12,15 @@
 body{
     text-align: center;
 }
+html{
+text-align: center;
+}
+#myCarousel{
+height: 300px;
+    width: 200px;
+}
+#grid{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
