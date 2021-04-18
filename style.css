@@ -1,26 +1,8 @@
-#H{
-    height: 200px;
-    width: 200px;
-}
-#BP{
-    height: 200px;
-    width: 200px;
-}#CA{
-    height: 200px;
-    width: 200px;
-}
-body{
+body {
     text-align: center;
 }
-html{
-text-align: center;
-}
-#myCarousel{
-height: 300px;
-    width: 200px;
-}
-#grid{
-    height: 100px;
-    width: 100px;
 
+img {
+    width: 450px;
+    height: 400px;
 }
